@@ -1,0 +1,6 @@
+Data
+meditron-7b.Q4_K_M.gguf
+env
+.DS_Store
+.gitignore
+__pycache__
